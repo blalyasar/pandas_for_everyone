@@ -1,16 +1,7 @@
-<!--TOC using https://github.com/ekalinin/github-markdown-toc-->
-<!--ts-->
-   * [Pandas for Everyone](#pandas-for-everyone)
-   * [Setup](#setup)
-      * [Install seaborn for plotting](#install-seaborn-for-plotting)
-      * [Install all the packages used in the book](#install-all-the-packages-used-in-the-book)
-         * [(Optional) Create a Virtual Environment](#optional-create-a-virtual-environment)
-         * [Install the packages](#install-the-packages)
-   * [Teaching Slides](#teaching-slides)
-      * [No Powerpoint (.ppt/.odp)](#no-powerpoint-pptodp)
-   * [Data](#data)
-   * [Links to teaching sessions](#links-to-teaching-sessions)
-   * [Other random goodies](#other-random-goodies)
+## HERKES İÇİN PANDAS TÜRKÇE NOTLAR
+## Pycon Workshop  Daniel Chen - Pandas is for Everyone - PyCon 2019 
+## workshop'unda bulunan kodlar Türkçe açıklamalar ile yorum satırı olarak yazılmıştır.
 
 
+https://www.youtube.com/watch?v=3qDhDXNRgHE&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=33&t=0s
 
