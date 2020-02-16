@@ -1,1 +1,1 @@
-Notebooks used to do live teachings
+Notebooks larda yorum açıklamaları Türkçe'dir.
