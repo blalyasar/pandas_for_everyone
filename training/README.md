@@ -1,1 +1,1 @@
-Notebooks used to do live teachings
+Turkce acıklamalı python pandas notları
